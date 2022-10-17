@@ -55,7 +55,7 @@
 <noscript>
     <img
         class="{{ class }}"
-        src="{{ responsive-image | img_url: '1000x1000' }}"
+        data-src="{{ responsive-image | img_url: '1000x1000' }}"
         data-sizes="auto"
         {% if alt %}
             alt="{{ alt | escape }}"
@@ -69,7 +69,7 @@
 <img
     class="lazyload {{ class }} {% if crop %}lazyload-crop-{{ crop }}{% endif %}"
     
-    src="{{ responsive_img_url }}"
+    data-src="{{ responsive_img_url }}"
     data-sizes="auto"
     data-aspectratio="1.5"
     {% if blur %}
