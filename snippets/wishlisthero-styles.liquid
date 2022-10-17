@@ -77,7 +77,7 @@ right: 3px;
 }
 }*/
 </style>
-<script type="lazyload2">window.wishlisthero_cartDotClasses=['site-header__cart-count', 'is-visible'];</script>
-{% assign wishlistHero = shop.metafields.wishlistHero %} {% assign key = 'WishListHero_setting' %}<script type='lazyload2'>try{
+<script>window.wishlisthero_cartDotClasses=['site-header__cart-count', 'is-visible'];</script>
+{% assign wishlistHero = shop.metafields.wishlistHero %} {% assign key = 'WishListHero_setting' %}<script>try{
  {% unless wishlistHero.WishListHero_setting %}  window.WishListHero_setting = null; {% else %}  window.WishListHero_setting = {{ wishlistHero.WishListHero_setting | json }};  
  {% endunless %} }catch(e){ console.error('Error loading config',e); } </script>
