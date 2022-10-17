@@ -237,6 +237,7 @@
       },
       "collection--collection-list": {
         "type": "collection--collection-list",
+        "disabled": true,
         "blocks": {
           "collection-0": {
             "type": "featured_collection",
@@ -647,6 +648,7 @@
       },
       "1634312427fecc1156": {
         "type": "collection--featured-collection",
+        "disabled": true,
         "settings": {
           "colors": "white",
           "subheading": "Keep up with the latest",
@@ -704,7 +706,6 @@
       },
       "1659386857243168a4": {
         "type": "collection--featured-collection",
-        "disabled": true,
         "settings": {
           "colors": "white",
           "subheading": "make a statement",
@@ -753,16 +754,57 @@
           "rows": 1,
           "show_view_all": false
         }
+      },
+      "8d413d86-e4da-433a-870c-4e18eb9c2c6a": {
+        "type": "image--gallery",
+        "blocks": {
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/4.jpg",
+              "link": "shopify:\/\/products\/limonata",
+              "title": "Limonata",
+              "description": ""
+            }
+          },
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "link": "shopify:\/\/products\/ophelia",
+              "title": "Ophelia",
+              "description": ""
+            }
+          },
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3.jpg",
+              "link": "shopify:\/\/products\/tati-the-turtle",
+              "title": "Tati The Turtle",
+              "description": ""
+            }
+          }
+        },
+        "block_order": [
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0",
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-1",
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2"
+        ],
+        "settings": {
+          "colors": "white"
+        }
       }
     },
     "content_for_index": [
       "image--slideshow",
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "1599464263019",
-      "1634312427fecc1156",
-      "1659705097243c2b49",
+      "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
       "1660480707ffb495b3",
       "1659386857243168a4",
+      "1634312427fecc1156",
+      "1659705097243c2b49",
       "collection--collection-list",
       "1644185798217be784",
       "image--image-with-text-block",
