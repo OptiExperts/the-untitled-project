@@ -653,7 +653,7 @@
           "title": "What's New?",
           "collection": "just-arrived-featured",
           "grid": 4,
-          "rows": 2,
+          "rows": 1,
           "show_view_all": true
         }
       },
@@ -741,10 +741,23 @@
           "rows": 1,
           "show_view_all": true
         }
+      },
+      "89ae16f2-19ef-4e76-8435-27eb2ed95fba": {
+        "type": "collection--featured-collection",
+        "settings": {
+          "colors": "white",
+          "subheading": "Explore",
+          "title": "Exclusive TUP scarfs",
+          "collection": "tup-embroidered-scarfs",
+          "grid": 4,
+          "rows": 1,
+          "show_view_all": false
+        }
       }
     },
     "content_for_index": [
       "image--slideshow",
+      "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "1599464263019",
       "1634312427fecc1156",
       "1659705097243c2b49",
