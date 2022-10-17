@@ -447,7 +447,7 @@
             "type": "text",
             "settings": {
               "icon": "map-pin",
-              "heading": "CLICK AND COLLECT",
+              "heading": "COLLECT FROM STORE",
               "subheading": "",
               "link": "shopify:\/\/pages\/store-locator"
             }
