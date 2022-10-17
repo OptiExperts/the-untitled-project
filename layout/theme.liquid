@@ -86,20 +86,9 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
 <link rel="canonical" href="{{ canonical_url }}" />
 
 <!-- CSS -->
-<link rel="stylesheet" data-href="{{ 'theme.min.css' | asset_url }}">
-<link rel="stylesheet" data-href="{{ 'custom.css' | asset_url }}">
+<link rel="stylesheet" href="{{ 'theme.min.css' | asset_url }}">
+<link rel="stylesheet" href="{{ 'custom.css' | asset_url }}">
 
-
-  {% if template contains 'index' %}
-  {%- render '__home-cs' -%}
-  {% elsif template contains 'product' %}
-  {%- render '__product-css' -%}
-  {% elsif template contains 'collection' %}
-  {%- render '__collection-css' -%}
-  {% else %}
-  {{ 'theme.min.css' | asset_url | stylesheet_tag }}
-  {{ 'custom.css' | asset_url | stylesheet_tag }}
-  {% endif %}
 
 {% render 'font-links' %}
 
