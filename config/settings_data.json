@@ -151,9 +151,9 @@
           "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_Poster_Landscape_5.png",
-              "mobile_image": "shopify:\/\/shop_images\/BE8A6413-DB53-434F-A033-6346FCE694EF.png",
-              "subheading": "Stand out",
+              "image": "shopify:\/\/shop_images\/Copy_of_FB_Group_Banner_Templates_-_My_Social_Boutique..jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_2.jpg",
+              "subheading": "Explore",
               "title": "Shop Our Signatures",
               "text": "<p>Turning heads is what you’ll be doing wearing our signature round cut design abayas. Shop them now to look fashionable wherever you go. <\/p>",
               "button_text": "take a look",
@@ -163,7 +163,7 @@
               "button-text": "#ffffff",
               "button-background": "#fd87a8",
               "horizontal-alignment": "center",
-              "vertical-alignment": "bottom"
+              "vertical-alignment": "middle"
             }
           },
           "c4ad2478-52a7-4c4f-ab35-5e779169b8ff": {
