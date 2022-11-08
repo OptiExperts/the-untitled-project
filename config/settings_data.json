@@ -762,9 +762,9 @@
           "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_homepage_feature.png",
-              "link": "shopify:\/\/products\/kaktus-vera",
-              "title": "Kaktus Vera",
+              "image": "shopify:\/\/shop_images\/shopify_homepage_feature.jpg",
+              "link": "shopify:\/\/products\/bint-al-arab-saudi-national-abaya-set",
+              "title": "Bint Al-Arab",
               "description": ""
             }
           },
@@ -780,9 +780,18 @@
           "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/3.jpg",
-              "link": "shopify:\/\/products\/tati-the-turtle",
-              "title": "Tati The Turtle",
+              "image": "shopify:\/\/shop_images\/shopify_homepage_feature.png",
+              "link": "shopify:\/\/products\/kaktus-vera",
+              "title": "kaktus Vera",
+              "description": ""
+            }
+          },
+          "2674876a-152e-495a-87d4-e0ffc0db6680": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shopify_homepage_feature_3.jpg",
+              "link": "shopify:\/\/products\/milky-way",
+              "title": "Milky Way",
               "description": ""
             }
           }
@@ -790,7 +799,8 @@
         "block_order": [
           "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0",
           "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-1",
-          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2"
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2",
+          "2674876a-152e-495a-87d4-e0ffc0db6680"
         ],
         "settings": {
           "colors": "white"
