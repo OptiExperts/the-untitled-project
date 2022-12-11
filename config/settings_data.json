@@ -148,8 +148,27 @@
       "image--slideshow": {
         "type": "image--slideshow",
         "blocks": {
+          "dd39a1b6-a838-433f-8450-f9a2c05ff617": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shopify_banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/working_on_-_insta_story_1.jpg",
+              "subheading": "",
+              "title": "Stay Style Forward",
+              "text": "<p>Whether you are looking for your favorites or want to change your style. <\/p><p>We got you covered!<\/p>",
+              "button_text": "New Arrivals",
+              "link": "shopify:\/\/collections\/just-arrived-featured",
+              "caption-background": "rgba(0,0,0,0)",
+              "caption-text": "#ffffff",
+              "button-text": "#232b2b",
+              "button-background": "#f8f6f2",
+              "horizontal-alignment": "left",
+              "vertical-alignment": "middle"
+            }
+          },
           "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Copy_of_FB_Group_Banner_Templates_-_My_Social_Boutique..jpg",
               "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_2.jpg",
@@ -206,6 +225,7 @@
           }
         },
         "block_order": [
+          "dd39a1b6-a838-433f-8450-f9a2c05ff617",
           "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86",
           "c4ad2478-52a7-4c4f-ab35-5e779169b8ff",
           "b3f2ee8a-2ff7-4048-ac5f-d8b2f34e57be"
