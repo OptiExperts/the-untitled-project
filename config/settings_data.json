@@ -714,6 +714,7 @@
       },
       "1659386857243168a4": {
         "type": "collection--featured-collection",
+        "disabled": true,
         "settings": {
           "colors": "white",
           "subheading": "make a statement",
