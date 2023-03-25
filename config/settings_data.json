@@ -262,7 +262,7 @@
           "collection-0": {
             "type": "featured_collection",
             "settings": {
-              "collection": "abayas"
+              "collection": "shop-everything"
             }
           },
           "1599462888332": {
@@ -667,19 +667,6 @@
           "html_area": "<!-- -->"
         }
       },
-      "1634312427fecc1156": {
-        "type": "collection--featured-collection",
-        "disabled": true,
-        "settings": {
-          "colors": "white",
-          "subheading": "Keep up with the latest",
-          "title": "What's New?",
-          "collection": "just-arrived-featured",
-          "grid": 4,
-          "rows": 1,
-          "show_view_all": true
-        }
-      },
       "1644185798217be784": {
         "type": "image--logo-list",
         "blocks": {
@@ -739,7 +726,6 @@
       },
       "1659705097243c2b49": {
         "type": "image--image-with-text-block",
-        "disabled": true,
         "settings": {
           "background_image": "shopify:\/\/shop_images\/custom_resized_ebb237c4-946a-4eb1-ac35-7b9172d199a3.png",
           "text-color": "#000000",
@@ -849,9 +835,8 @@
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "1599464263019",
       "1659386857243168a4",
-      "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
-      "1634312427fecc1156",
       "1659705097243c2b49",
+      "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
       "collection--collection-list",
       "image--image-with-text-block",
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
