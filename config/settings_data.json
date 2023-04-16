@@ -706,20 +706,19 @@
           "title": "Shop all Abaya Styles",
           "collection": "shop-everything",
           "grid": 4,
-          "rows": 1,
+          "rows": 2,
           "show_view_all": true
         }
       },
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba": {
         "type": "collection--featured-collection",
-        "disabled": true,
         "settings": {
           "colors": "white",
-          "subheading": "trending now",
-          "title": "The Top Wanted",
-          "collection": "the-top-wanted-list",
+          "subheading": "Chic on a Budget",
+          "title": "Shop Our Sale Outlet",
+          "collection": "sale-1",
           "grid": 4,
-          "rows": 2,
+          "rows": 1,
           "show_view_all": true
         }
       },
