@@ -712,6 +712,7 @@
       },
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba": {
         "type": "collection--featured-collection",
+        "disabled": true,
         "settings": {
           "colors": "white",
           "subheading": "trending now",
@@ -792,9 +793,9 @@
     "content_for_index": [
       "image--slideshow",
       "1660480707ffb495b3",
+      "1659386857243168a4",
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "1599464263019",
-      "1659386857243168a4",
       "1659705097243c2b49",
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
       "collection--collection-list",
