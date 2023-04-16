@@ -184,51 +184,11 @@
               "horizontal-alignment": "center",
               "vertical-alignment": "middle"
             }
-          },
-          "c4ad2478-52a7-4c4f-ab35-5e779169b8ff": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/custom_resized_075dc519-4140-43ff-ab1c-0670b134cadb.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/custom_resized_288bb6e1-1e10-4084-8a71-7e97a6941e11.jpg",
-              "subheading": "",
-              "title": "",
-              "text": "",
-              "button_text": "",
-              "link": "",
-              "caption-background": "rgba(0,0,0,0)",
-              "caption-text": "#ffffff",
-              "button-text": "#ffffff",
-              "button-background": "#000000",
-              "horizontal-alignment": "left",
-              "vertical-alignment": "bottom"
-            }
-          },
-          "b3f2ee8a-2ff7-4048-ac5f-d8b2f34e57be": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_Poster_Landscape_1.png",
-              "mobile_image": "shopify:\/\/shop_images\/EA9D0306-0BDB-4B72-95AC-57FFC3E68261.jpg",
-              "subheading": "",
-              "title": "Find me under the palm",
-              "text": "<p>Suns out 🌞  shades on 😎 and put on this breezy abaya to complete your summer day look.<\/p>",
-              "button_text": "take a look",
-              "link": "shopify:\/\/products\/palm",
-              "caption-background": "rgba(0,0,0,0)",
-              "caption-text": "#ffffff",
-              "button-text": "#ffffff",
-              "button-background": "#add4a6",
-              "horizontal-alignment": "left",
-              "vertical-alignment": "bottom"
-            }
           }
         },
         "block_order": [
           "dd39a1b6-a838-433f-8450-f9a2c05ff617",
-          "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86",
-          "c4ad2478-52a7-4c4f-ab35-5e779169b8ff",
-          "b3f2ee8a-2ff7-4048-ac5f-d8b2f34e57be"
+          "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86"
         ],
         "settings": {
           "slider-animation": "slide",
@@ -714,7 +674,6 @@
       },
       "1659386857243168a4": {
         "type": "collection--featured-collection",
-        "disabled": true,
         "settings": {
           "colors": "white",
           "subheading": "make a statement",
@@ -743,12 +702,12 @@
         "type": "collection--featured-collection",
         "settings": {
           "colors": "white",
-          "subheading": "What's New?",
-          "title": "Shop the Latest Arrivals",
-          "collection": "ramadan",
+          "subheading": "Find Your Perfect Style",
+          "title": "Shop all Abaya Styles",
+          "collection": "shop-everything",
           "grid": 4,
           "rows": 1,
-          "show_view_all": false
+          "show_view_all": true
         }
       },
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba": {
