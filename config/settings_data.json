@@ -101,7 +101,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "enable": true,
+          "enable": false,
           "message_text": "Orders placed will be delivered after eid holiday🌙 💖  enjoy Tax-Free shopping",
           "message_link": "",
           "notification-bar--background-color": "#f8f6f2",
