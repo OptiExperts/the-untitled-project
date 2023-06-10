@@ -170,12 +170,12 @@
           "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Copy_of_FB_Group_Banner_Templates_-_My_Social_Boutique..jpg",
+              "image": "shopify:\/\/shop_images\/shopify_banner.png",
               "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_2.jpg",
-              "subheading": "Find your style",
-              "title": "Be Your Own Label",
-              "text": "<p>Take your first step into living a sustainable lifestyle by wearing abayas influenced by the latest runways and global trends. <\/p>",
-              "button_text": "take a look",
+              "subheading": "Coming this week",
+              "title": "Introducing Our Summer Collection",
+              "text": "<p>Designed for the fierce and fabulous. <\/p><p>Get ready to turn heads and set trends like never before!<\/p>",
+              "button_text": "",
               "link": "shopify:\/\/collections\/shop-everything",
               "caption-background": "rgba(0,0,0,0)",
               "caption-text": "#ffffff",
