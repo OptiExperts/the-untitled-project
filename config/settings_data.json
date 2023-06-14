@@ -806,7 +806,7 @@
         "settings": {
           "colors": "white",
           "subheading": "Feel the breeze",
-          "title": "Shop our Summer Favourite",
+          "title": "Shop our Summer Favorite",
           "featured_product": "the-birthday-abaya-set",
           "cart-action": "drawer",
           "show_discount": "hide",
@@ -821,8 +821,8 @@
     },
     "content_for_index": [
       "image--slideshow",
-      "3d714698-a598-462e-a2ea-cc770bb8bb33",
       "cbf02e26-cfd1-4a7e-b0a7-2cc9c1504277",
+      "3d714698-a598-462e-a2ea-cc770bb8bb33",
       "1660480707ffb495b3",
       "1659386857243168a4",
       "1599464263019",
