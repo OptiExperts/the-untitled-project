@@ -800,11 +800,29 @@
           "rows": 1,
           "show_view_all": true
         }
+      },
+      "cbf02e26-cfd1-4a7e-b0a7-2cc9c1504277": {
+        "type": "product--featured-product",
+        "settings": {
+          "colors": "white",
+          "subheading": "Feel the breeze",
+          "title": "Shop our Summer Favourite",
+          "featured_product": "the-birthday-abaya-set",
+          "cart-action": "drawer",
+          "show_discount": "hide",
+          "show_quantity_selector": false,
+          "show_smart_checkout": true,
+          "show_product_description": false,
+          "pick_an_option": false,
+          "hide_out_of_stock": false,
+          "enable_video_loop": false
+        }
       }
     },
     "content_for_index": [
       "image--slideshow",
       "3d714698-a598-462e-a2ea-cc770bb8bb33",
+      "cbf02e26-cfd1-4a7e-b0a7-2cc9c1504277",
       "1660480707ffb495b3",
       "1659386857243168a4",
       "1599464263019",
