@@ -152,7 +152,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Bright_Sale_Brand_Website_Homepage_Banner_2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_11.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_12.jpg",
               "subheading": "",
               "title": "",
               "text": "",
@@ -707,6 +707,7 @@
       },
       "1659705097243c2b49": {
         "type": "image--image-with-text-block",
+        "disabled": true,
         "settings": {
           "background_image": "shopify:\/\/shop_images\/custom_resized_ebb237c4-946a-4eb1-ac35-7b9172d199a3.png",
           "text-color": "#000000",
@@ -717,18 +718,6 @@
           "text": "<p>Choose from 6 different colored abayas each with its own unique embroidered frame like a lemon, turtle, cactus, and many more on the back.<\/p>",
           "button_link": "shopify:\/\/collections\/the-staples",
           "button_label": "Shop it Now"
-        }
-      },
-      "1660480707ffb495b3": {
-        "type": "collection--featured-collection",
-        "settings": {
-          "colors": "white",
-          "subheading": "Elevate Your Look",
-          "title": "Make a Statement with TUP Embroidered Scarves",
-          "collection": "tup-embroidered-scarfs",
-          "grid": 4,
-          "rows": 2,
-          "show_view_all": true
         }
       },
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba": {
@@ -746,30 +735,30 @@
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a": {
         "type": "image--gallery",
         "blocks": {
-          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0": {
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_homepage_feature.jpg",
-              "link": "shopify:\/\/products\/bint-al-arab-saudi-national-abaya-set",
-              "title": "Bint Al-Arab",
+              "image": "shopify:\/\/shop_images\/shopify_homepage_feature_6.jpg",
+              "link": "shopify:\/\/products\/peach",
+              "title": "Peach Perfection",
               "description": ""
             }
           },
           "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/2.jpg",
-              "link": "shopify:\/\/products\/ophelia",
-              "title": "Ophelia",
+              "image": "shopify:\/\/shop_images\/shopify_homepage_feature_5.jpg",
+              "link": "shopify:\/\/products\/the-blue-muse-kimono-inspired",
+              "title": "The Blue Muse",
               "description": ""
             }
           },
-          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2": {
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_homepage_feature.png",
-              "link": "shopify:\/\/products\/kaktus-vera",
-              "title": "kaktus Vera",
+              "image": "shopify:\/\/shop_images\/shopify_homepage_feature.jpg",
+              "link": "shopify:\/\/products\/bint-al-arab-saudi-national-abaya-set",
+              "title": "Bint Al-Arab",
               "description": ""
             }
           },
@@ -784,12 +773,11 @@
           }
         },
         "block_order": [
-          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0",
-          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-1",
           "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-2",
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-1",
+          "8d413d86-e4da-433a-870c-4e18eb9c2c6a-16660366077aea10a2-0",
           "2674876a-152e-495a-87d4-e0ffc0db6680"
         ],
-        "disabled": true,
         "settings": {
           "colors": "white"
         }
@@ -841,16 +829,14 @@
     },
     "content_for_index": [
       "image--slideshow",
+      "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "cbf02e26-cfd1-4a7e-b0a7-2cc9c1504277",
       "3d714698-a598-462e-a2ea-cc770bb8bb33",
-      "1660480707ffb495b3",
       "1659386857243168a4",
       "1599464263019",
       "1659705097243c2b49",
-      "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
       "collection--collection-list",
-      "image--image-with-text-block",
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
       "1599473516794",
       "1599471883514",
