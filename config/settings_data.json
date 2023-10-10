@@ -148,16 +148,16 @@
       "image--slideshow": {
         "type": "image--slideshow",
         "blocks": {
-          "43bdc141-79ca-4ab5-9374-8163ab3cd91e": {
+          "514b0764-d587-48cd-8315-c6cb358d59db": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Bright_Sale_Brand_Website_Homepage_Banner_2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_12.jpg",
+              "image": "shopify:\/\/shop_images\/Copy_of__KAR5774_1_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Copy_of__KAR6010_1.png",
               "subheading": "",
               "title": "",
-              "text": "",
-              "button_text": "SHOP NOW",
-              "link": "shopify:\/\/collections\/sale-1",
+              "text": "<p>Coming Soon: Be Ready to Glam Up! <\/p><p>Our International Milan Fashion Week Collection is Dropping.<\/p>",
+              "button_text": "",
+              "link": "",
               "caption-background": "rgba(0,0,0,0)",
               "caption-text": "#ffffff",
               "button-text": "#ffffff",
@@ -165,50 +165,10 @@
               "horizontal-alignment": "center",
               "vertical-alignment": "bottom"
             }
-          },
-          "dd39a1b6-a838-433f-8450-f9a2c05ff617": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_banner_4.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Shopify_-_mobile_grid_5.jpg",
-              "subheading": "",
-              "title": "Style & Comfort in every Abaya",
-              "text": "<p>Looking for a modern and unique abaya to wear every day? <\/p><p>Look no further! our daily abayas are designed with modern and stylish icons perfect for any occasion. <\/p><p><\/p>",
-              "button_text": "Browse collection",
-              "link": "shopify:\/\/collections\/shop-everything",
-              "caption-background": "rgba(0,0,0,0)",
-              "caption-text": "#ffffff",
-              "button-text": "#232b2b",
-              "button-background": "#f8f6f2",
-              "horizontal-alignment": "left",
-              "vertical-alignment": "bottom"
-            }
-          },
-          "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/shopify_banner_2.png",
-              "mobile_image": "shopify:\/\/shop_images\/girl_in_pink_-_insta_story.png",
-              "subheading": "Coming this week",
-              "title": "Introducing Our Summer Collection",
-              "text": "<p>Designed for the fierce and fabulous. <\/p><p>Get ready to turn heads and set trends like never before!<\/p>",
-              "button_text": "",
-              "link": "shopify:\/\/collections\/shop-everything",
-              "caption-background": "rgba(0,0,0,0)",
-              "caption-text": "#ffffff",
-              "button-text": "#ffffff",
-              "button-background": "#fd87a8",
-              "horizontal-alignment": "center",
-              "vertical-alignment": "middle"
-            }
           }
         },
         "block_order": [
-          "43bdc141-79ca-4ab5-9374-8163ab3cd91e",
-          "dd39a1b6-a838-433f-8450-f9a2c05ff617",
-          "fbb7029f-cff3-41c8-aac1-f6f1e92f5f86"
+          "514b0764-d587-48cd-8315-c6cb358d59db"
         ],
         "settings": {
           "slider-animation": "slide",
@@ -801,43 +761,25 @@
         "type": "collection--featured-collection",
         "settings": {
           "colors": "white",
-          "subheading": "Subheading",
-          "title": "Stay Chic and Beat the Heat",
-          "collection": "summer-favorites",
-          "grid": 6,
-          "rows": 1,
+          "subheading": "Your Fashion Journey Begins",
+          "title": "Discover Your Signature Style",
+          "collection": "shop-everything",
+          "grid": 4,
+          "rows": 2,
           "show_view_all": true
-        }
-      },
-      "cbf02e26-cfd1-4a7e-b0a7-2cc9c1504277": {
-        "type": "product--featured-product",
-        "settings": {
-          "colors": "white",
-          "subheading": "Stay Cool & Stylish",
-          "title": "Minty Fresh for Summer",
-          "featured_product": "the-birthday-abaya-set",
-          "cart-action": "drawer",
-          "show_discount": "hide",
-          "show_quantity_selector": false,
-          "show_smart_checkout": true,
-          "show_product_description": false,
-          "pick_an_option": false,
-          "hide_out_of_stock": false,
-          "enable_video_loop": false
         }
       }
     },
     "content_for_index": [
       "image--slideshow",
-      "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
-      "cbf02e26-cfd1-4a7e-b0a7-2cc9c1504277",
       "3d714698-a598-462e-a2ea-cc770bb8bb33",
       "1659386857243168a4",
       "1599464263019",
       "1659705097243c2b49",
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
-      "collection--collection-list",
+      "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
+      "collection--collection-list",
       "1599473516794",
       "1599471883514",
       "1599472517570",
