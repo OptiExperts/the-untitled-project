@@ -665,21 +665,6 @@
           "show_view_all": true
         }
       },
-      "1659705097243c2b49": {
-        "type": "image--image-with-text-block",
-        "disabled": true,
-        "settings": {
-          "background_image": "shopify:\/\/shop_images\/custom_resized_ebb237c4-946a-4eb1-ac35-7b9172d199a3.png",
-          "text-color": "#000000",
-          "background-color": "#ffffff",
-          "horizontal-alignment": "right",
-          "subheading": "Linen Cardigans",
-          "title": "The Staples ✨",
-          "text": "<p>Choose from 6 different colored abayas each with its own unique embroidered frame like a lemon, turtle, cactus, and many more on the back.<\/p>",
-          "button_link": "shopify:\/\/collections\/the-staples",
-          "button_label": "Shop it Now"
-        }
-      },
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba": {
         "type": "collection--featured-collection",
         "settings": {
@@ -765,7 +750,7 @@
           "title": "Discover Your Signature Style",
           "collection": "shop-everything",
           "grid": 4,
-          "rows": 2,
+          "rows": 1,
           "show_view_all": true
         }
       }
@@ -775,17 +760,16 @@
       "3d714698-a598-462e-a2ea-cc770bb8bb33",
       "1659386857243168a4",
       "1599464263019",
-      "1659705097243c2b49",
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
-      "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
       "collection--collection-list",
-      "1599473516794",
+      "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
       "1599471883514",
+      "1599473516794",
       "1599472517570",
       "1605899980d196fc36",
-      "1644185798217be784",
       "1598923592629",
+      "1644185798217be784",
       "1599470903046"
     ],
     "blocks": {
