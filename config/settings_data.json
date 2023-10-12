@@ -729,6 +729,7 @@
       },
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf": {
         "type": "image--image-with-text-overlay",
+        "disabled": true,
         "settings": {
           "image": "shopify:\/\/shop_images\/699B2BBC-834C-40F2-A826-9DD8D3F1604C.png",
           "subheading": "",
