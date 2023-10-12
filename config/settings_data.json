@@ -229,7 +229,6 @@
           "1601852576968",
           "collection-1"
         ],
-        "disabled": true,
         "settings": {
           "colors": "light",
           "subheading": "",
@@ -763,9 +762,9 @@
       "1599464263019",
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
-      "collection--collection-list",
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
       "1599471883514",
+      "collection--collection-list",
       "1599473516794",
       "1599472517570",
       "1605899980d196fc36",
