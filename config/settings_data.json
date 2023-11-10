@@ -513,7 +513,7 @@
               "image": "shopify:\/\/shop_images\/collection_images_SHOPIFY_8.png",
               "link": "shopify:\/\/collections\/sporty-style",
               "title": "Sporty",
-              "description": "<p><em>A sporty style is relaxed and allows for easy movement. You&#x27;re a casual Gal, and would rather go for an effortless, very simple, laidback but bold look.<\/em><\/p>"
+              "description": "<p><em>A sporty style is relaxed and allows for easy movement. You're a casual Gal, and would rather go for an effortless, very simple, laidback but bold look.<\/em><\/p>"
             }
           },
           "1599472517570-1": {
@@ -547,13 +547,12 @@
       },
       "1599473516794": {
         "type": "text--rich-text",
-        "disabled": true,
         "settings": {
           "colors": "white",
           "width": "small",
           "subheading": "",
           "title": "Find Your Personal Style",
-          "text": "<p><strong>\"As fashion stylists and personal shoppers, we have worked with thousands of women from coast to coast, and here's what we've found. Everyone belongs to one or a combination of these six style types\":<\/strong><\/p>",
+          "text": "<p>Shop through stunning fashion styling shots to discover endless possibilities for <strong>styling your new abaya.<\/strong> <\/p><p>The best part? Our designs seamlessly transition from occasion glam to casual chic. <\/p><p>Elevate your look, whatever the vibe! <\/p>",
           "button_link": "",
           "button_label": ""
         }
@@ -747,11 +746,10 @@
       "1659386857243168a4",
       "1599464263019",
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
+      "1599473516794",
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "1599471883514",
-      "collection--collection-list",
-      "1599473516794",
       "1599472517570",
       "1605899980d196fc36",
       "1598923592629",
