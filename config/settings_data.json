@@ -755,6 +755,20 @@
           "button_link": "",
           "button_label": ""
         }
+      },
+      "51a63d71-c1ae-4762-86f8-b2f182574974": {
+        "type": "text--image-with-text",
+        "settings": {
+          "colors": "white",
+          "image-width": "medium",
+          "image": "shopify:\/\/shop_images\/66526C01-39AE-434B-BD03-99E7D5DB12F1.png",
+          "layout": "left",
+          "subheading": "",
+          "title": "Come and Visit Us",
+          "text_block": "<p>Visit us in Riyadh and Jeddah for an exclusive, in-store experience. Feel the fabrics, find your fit, and discover your perfect look!<\/p>",
+          "button_link": "shopify:\/\/pages\/store-locator",
+          "button_label": "View Locations"
+        }
       }
     },
     "content_for_index": [
@@ -770,7 +784,8 @@
       "1605899980d196fc36",
       "1598923592629",
       "1644185798217be784",
-      "1599470903046"
+      "1599470903046",
+      "51a63d71-c1ae-4762-86f8-b2f182574974"
     ],
     "blocks": {
       "6472724134860490182": {
