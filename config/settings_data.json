@@ -635,17 +635,33 @@
               "image": "shopify:\/\/shop_images\/logo.png",
               "link": "https:\/\/www.abouther.com\/node\/27191\/people\/leading-ladies\/15-remarkable-photographs-saudi-women-celebrate-international"
             }
+          },
+          "1115d080-1c46-415b-aa21-fe717c94d74d": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/zawya-logo-vector.png",
+              "link": "https:\/\/www.zawya.com\/en\/press-release\/companies-news\/saudi-fashion-steals-the-spotlight-at-milan-fashion-week-d40codt8"
+            }
+          },
+          "1ba74091-a3ad-4e9a-967d-b06b5a05ce4a": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aszybbnyhefstvklbfxw.webp",
+              "link": "https:\/\/buro247.me\/fashion\/saudi-100-brands-white-milano\/"
+            }
           }
         },
         "block_order": [
           "1644185798217be784-0",
           "1644185798217be784-1",
           "1644185798217be784-2",
-          "1644185798217be784-3"
+          "1644185798217be784-3",
+          "1115d080-1c46-415b-aa21-fe717c94d74d",
+          "1ba74091-a3ad-4e9a-967d-b06b5a05ce4a"
         ],
         "settings": {
           "colors": "white",
-          "width": 150,
+          "width": 120,
           "subheading": "Press coverage",
           "title": "As seen in"
         }
