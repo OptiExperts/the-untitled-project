@@ -548,7 +548,7 @@
       "1599473516794": {
         "type": "text--rich-text",
         "settings": {
-          "colors": "white",
+          "colors": "light",
           "width": "small",
           "subheading": "",
           "title": "Find Your Personal Style",
@@ -737,7 +737,7 @@
           "2674876a-152e-495a-87d4-e0ffc0db6680"
         ],
         "settings": {
-          "colors": "white"
+          "colors": "light"
         }
       },
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf": {
@@ -760,11 +760,11 @@
         "type": "text--image-with-text",
         "settings": {
           "colors": "white",
-          "image-width": "medium",
+          "image-width": "small",
           "image": "shopify:\/\/shop_images\/66526C01-39AE-434B-BD03-99E7D5DB12F1.png",
           "layout": "left",
           "subheading": "",
-          "title": "Come and Visit Us",
+          "title": "Visit Us to Try On the Latest Trends!",
           "text_block": "<p>Visit us in Riyadh and Jeddah for an exclusive, in-store experience. Feel the fabrics, find your fit, and discover your perfect look!<\/p>",
           "button_link": "shopify:\/\/pages\/store-locator",
           "button_label": "View Locations"
@@ -778,14 +778,14 @@
       "0abc2e55-ad27-43f7-b5b4-9e465c1554cf",
       "1599473516794",
       "8d413d86-e4da-433a-870c-4e18eb9c2c6a",
+      "51a63d71-c1ae-4762-86f8-b2f182574974",
       "89ae16f2-19ef-4e76-8435-27eb2ed95fba",
       "1599471883514",
       "1599472517570",
       "1605899980d196fc36",
       "1598923592629",
       "1644185798217be784",
-      "1599470903046",
-      "51a63d71-c1ae-4762-86f8-b2f182574974"
+      "1599470903046"
     ],
     "blocks": {
       "6472724134860490182": {
